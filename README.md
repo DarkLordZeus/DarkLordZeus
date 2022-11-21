@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">👋 Hii I’m @DarkLordZeus, A Mobile App Developer... </div>  
+### <div align="center">👋 Hii I’m @DarkLordZeus... </div>  
   
 
 - 👀 I’m interested in ANDROID,ANGULAR,REACT,ML,BLOCK CHAIN,META VERSE and chicks😉...
